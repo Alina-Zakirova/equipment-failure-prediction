@@ -9,3 +9,6 @@
 
 ❗ **Блокнот итоговый**:  
 [Google Colab](https://colab.research.google.com/drive/17LtRyEZ_s-Q5FfGct9SXaYgleX8BC1_V?usp=sharing)
+
+❗ **Трекер задач в MS Project**:
+[Google Project](https://drive.google.com/file/d/1A2jLzYq_t3kCFWVOGESHZVF0HgC6YXmN/view?usp=sharing)
